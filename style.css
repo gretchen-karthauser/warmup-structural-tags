@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(255, 229, 195);
+    color: rgb(53, 79, 29);
+    font-family: "Cabin Sketch", sans-serif;;
+}
+
+body {
+    margin: 0px;
+}
+
+.site-header {
+    background-color: rgb(158, 189, 114);
+    padding: 15px;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.site-footer {
+    background-color: rgb(53, 79, 29);
+    color: rgb(158, 189, 114);
+    padding: 25px;
+}
+
+.footer-link {
+    color: rgb(158, 189, 114);
+}
